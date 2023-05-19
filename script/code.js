@@ -13,4 +13,4 @@ let maarij = {
 console.log(maarij.lastName);
 
 let names = [maarij]
-console.log(imad);
+console.log(names);
